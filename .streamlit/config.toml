@@ -17,3 +17,5 @@ font="sans serif"
 
 [server]
 enableXsrfProtection = false # Required for some embeds/iframes like PDF preview
+
+python_version = "3.10"

@@ -1,0 +1,13 @@
+streamlit
+pillow
+inference-sdk
+roboflow
+opencv-python-headless # For drawing bounding boxes
+numpy
+google-generativeai # For Gemini API
+reportlab # For PDF generation
+inference
+supervision
+opencv-python
+openai
+pysqlite3 # Or just sqlite3 if using Python 3.7+

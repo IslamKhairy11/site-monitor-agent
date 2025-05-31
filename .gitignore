@@ -1,0 +1,19 @@
+# Ignore the data directory containing the database and project files
+data/
+
+# Ignore the virtual environment folder (common names)
+venv/
+.venv/
+env/
+.env/
+
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+
+# Ignore Streamlit secrets file (if you used secrets.toml instead of direct input)
+.streamlit/secrets.toml
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db

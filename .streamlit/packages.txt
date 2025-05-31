@@ -3,3 +3,5 @@ libsm6
 libxrender1
 libfontconfig1
 libice6
+pkg-config 
+ffmpeg     

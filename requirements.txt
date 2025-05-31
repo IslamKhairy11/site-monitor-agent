@@ -2,7 +2,7 @@ streamlit
 pillow
 inference-sdk
 roboflow
-opencv-python-headless 
+opencv-python-headless
 numpy
 google-generativeai
 reportlab

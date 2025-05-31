@@ -2,10 +2,10 @@ streamlit
 pillow
 inference-sdk
 roboflow
-opencv-python-headless # For drawing bounding boxes
+opencv-python-headless 
 numpy
-google-generativeai # For Gemini API
-reportlab # For PDF generation
+google-generativeai
+reportlab
 inference
 supervision
 openai

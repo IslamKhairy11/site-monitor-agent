@@ -1,8 +1,9 @@
-libgl1
-libgl1-mesa-glx
+libgl1-mesa-glx  
+libegl1-mesa     
+libgl1          
 libsm6
 libxrender1
 libfontconfig1
 libice6
-pkg-config 
-ffmpeg     
+pkg-config       
+ffmpeg          

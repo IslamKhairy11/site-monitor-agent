@@ -8,5 +8,4 @@ google-generativeai # For Gemini API
 reportlab # For PDF generation
 inference
 supervision
-opencv-python
 openai

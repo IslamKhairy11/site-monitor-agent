@@ -1,21 +1,13 @@
 # .streamlit/config.toml
 [theme]
-# Primary accent color (used for buttons, links, etc.)
-primaryColor="#4FB477" # Muted Green
-
-# Background color for the main content area
-backgroundColor="#F4F4F9" # Very Light Gray
-
-# Background color for the sidebar and some components
-secondaryBackgroundColor="#556B77" # Muted Blue-Gray
-
-# Color for text
-textColor="#070600" # Very Dark Brown
-
-# Font family
+primaryColor="#4FB477"
+backgroundColor="#F4F4F9"
+secondaryBackgroundColor="#556B77"
+textColor="#070600"
 font="sans serif"
 
-[runner]
-enableXsrfProtection = false # Required for some embeds/iframes like PDF preview
+[server] 
+enableXsrfProtection = false 
 
-python_version = "3.10"
+[runner] 
+python_version = "3.10" 

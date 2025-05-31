@@ -8,7 +8,7 @@ font="sans serif"
 
 [server] 
 enableXsrfProtection = false
-folderWatch 黑名单 = ["/home/adminuser/venv/"] 
+"folderWatch 黑名单" = ["/home/adminuser/venv/"] 
 
 [runner] 
 python_version = "3.10"

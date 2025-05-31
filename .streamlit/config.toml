@@ -7,7 +7,8 @@ textColor="#070600"
 font="sans serif"
 
 [server] 
-enableXsrfProtection = false 
+enableXsrfProtection = false
+folderWatch 黑名单 = ["/home/adminuser/venv/"] 
 
 [runner] 
-python_version = "3.10" 
+python_version = "3.10"

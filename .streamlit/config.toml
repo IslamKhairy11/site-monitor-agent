@@ -15,7 +15,7 @@ textColor="#070600" # Very Dark Brown
 # Font family
 font="sans serif"
 
-[server]
+[runner]
 enableXsrfProtection = false # Required for some embeds/iframes like PDF preview
 
 python_version = "3.10"

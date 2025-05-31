@@ -10,4 +10,3 @@ inference
 supervision
 opencv-python
 openai
-pysqlite3 # Or just sqlite3 if using Python 3.7+

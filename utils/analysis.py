@@ -6,6 +6,8 @@
 
 import io
 import os
+os.environ['QT_QPA_PLATFORM'] = 'offscreen'
+
 import time
 import numpy as np
 import cv2 # OpenCV for image/video frame handling

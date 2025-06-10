@@ -37,7 +37,7 @@ except Exception as e:
 
 # --- Page Configuration ---
 st.set_page_config(
-    page_title="Site Monitor AI Agent",
+    page_title="Scanly.ai",
     page_icon="🏗️",
     layout="wide",
     initial_sidebar_state="expanded",
@@ -111,7 +111,7 @@ if 'pdf_image_width_inch' not in st.session_state:
 
 
 # --- Main Page Content ---
-st.title("🏗️ Eagle.ai | Construction Site Monitor AI Agent")
+st.title("🏗️ Scanly.ai | Your Construction Site Monitor AI Copilot")
 st.subheader("Your intelligent assistant for site analysis and monitoring.")
 
 st.markdown(
